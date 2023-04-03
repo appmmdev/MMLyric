@@ -1,5 +1,5 @@
 {
-  "Lyrics_Database":[
+"Lyrics_Database":[
   {
     "singername": "ဝေကြီး",
     "title": "ဆေး",
@@ -1425,8 +1425,8 @@
     "postId": "1661441057837"
   },
   {
-    "singername": "လေးဖွူ",
-    "title": "နှငျးဆီဝငျ်ကပါ",
+    "singername": "လေးဖြူ",
+    "title": "နှင်းဆီ ဝင်္ကဘာ",
     "albumtitle": "လေးဖြူ",
     "lyricImg": "https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/ImageUploadLyrics%2F1661440916501?alt\u003dmedia\u0026token\u003ddeb1f513-a9d1-4490-811d-f6fd42261a42",
     "credit": "MM Chords and Lyric Facebook",
@@ -1522,7 +1522,7 @@
   },
   {
     "singername": "စန္ဒရားလှထွတ်",
-    "title": "အလှသစ်စာတရား",
+    "title": "အလှသစ္စာတရား",
     "albumtitle": "စန္ဒရားလှထွတ်",
     "lyricImg": "https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/ImageUploadLyrics%2F1661419348722?alt\u003dmedia\u0026token\u003d7a46eaeb-1288-44be-b4ef-37693ad8d0c3",
     "credit": "MM Chords and Lyric Facebook",
@@ -1551,14 +1551,6 @@
     "lyricImg": "https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/ImageUploadLyrics%2F1661400756332?alt\u003dmedia\u0026token\u003dbb4fef83-3566-4115-ab47-7bbca5b1a6cf",
     "credit": "MM Chords and Lyric Facebook",
     "postId": "1661401097713"
-  },
-  {
-    "singername": "ထူးအိမ်သင်+ပေါက်ပေါက်",
-    "title": "ကာရံမညီသော",
-    "albumtitle": "သက်ငြိမ်",
-    "lyricImg": "https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/ImageUploadLyrics%2F1661400756332?alt\u003dmedia\u0026token\u003dbb4fef83-3566-4115-ab47-7bbca5b1a6cf",
-    "credit": "MM Chords and Lyric Facebook",
-    "postId": "1661401097712"
   },
   {
     "singername": "ရွှေထူး",
@@ -3657,5 +3649,4 @@
     "postId": "1660249323371"
   }
 ]
-  
 }
