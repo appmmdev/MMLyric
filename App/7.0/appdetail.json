@@ -5,7 +5,7 @@
 
         {
 
-            "appversion":"8.0",
+            "appversion":"9.0",
             "updatemessage":"Lyric တစ်ခုနဲ့ တစ်ခု ရွေ့ပြီး ကြည့်တဲ့အခါ ကြော်ငြာပြတာကို ဖျောက်ပေးထားပါတယ်။",
             "dataURL":"https://appmmdev.github.io/MMLyric/Data/lyrics.json",            
             "directDownload":"https://appmmdev.github.io/MMLyric/App/9.0/mmlyricV9.apk"
