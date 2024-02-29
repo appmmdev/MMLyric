@@ -1,6 +1,118 @@
 {
     "Lyrics_Database": [
         {
+            "singername": "ထူးအယ်လင်း",
+            "title": "အချစ်လို့ခေါ်သလား",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/achitlokhawthalar_htooLlinn.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ထွန်းရတီ",
+            "title": "အချစ်များစွာယူ",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/achitmyarswaru_htunyati.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ဝန",
+            "title": "အနီးဆုံးလူ",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/aniesoneluu_wana.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ဇွဲပြည့်",
+            "title": "အသည်းကွဲ​သော​နေ့",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/athaekwalthawnae_zwepyae.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ပိုပို",
+            "title": "ဘာမှမလိုဘူး",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/barhmamalobuu_popo.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "မနော",
+            "title": "ချစ်တယ်",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/chittal_manaw.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "မြင့်မြတ်",
+            "title": "ချစ်သူ",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/chitthu_myintmyat.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "အိမ့်ချစ်",
+            "title": "ကမ္ဘာငယ်လေး",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/kbarngelay_aeintchit.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ဂျီလတ်",
+            "title": "ကြိုနေစေချင်တယ်",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/kyonaysaychintal_glatt.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "နီနီခင်ဇော်",
+            "title": "မျှော်လင့်ချက်တစ်စုံတစ်ရာ",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/myawlintchatsomething_ninikhinzaw.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "အောင်ဖြိုး",
+            "title": "မြင်နေခွင့်လေး",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/myinnaykwintlay_aungphyo.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ပူစူး",
+            "title": "ငါ့ရဲ့အရာရာ",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/ngaryeayaryar_pusue.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "နော်ဒင့်",
+            "title": "နစ်နာမယ်",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/nitnarmal_nawdint.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ညီမင်းခိုင်",
+            "title": "နွယ်နီ",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/nweni_nyiminkhaing.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ဝေလ",
+            "title": "ဖွင့်ပြောလိုက်ချင်ပြီ",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/phwintpyawlitechinp_waila.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        },{
+            "singername": "ထူးအယ်လင်း",
+            "title": "အချစ်လို့ခေါ်သလား",
+            "albumtitle": "MasterSongCollection2015",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/2922024/achitlokhawthalar_htooLlinn.jpeg",
+            "credit": "Facebook",
+            "postId": "1709141400000"
+        }, {
             "singername": "ဟန်ထွန်း",
             "title": "ခေါင်းနဲ့ပန်း",
             "albumtitle": "ခေါင်းနဲ့ပန်း",
