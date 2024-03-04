@@ -1,6 +1,125 @@
 {
     "Lyrics_Database": [
         {
+            "singername": "ဂ​ရေဟန်",
+            "title": "ချမ်းပါတယ်",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/chanpartal_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        }, {
+            "singername": "ဂ​ရေဟန်",
+            "title": "ဒဂုံမောင်",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/dagonmaung_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "စည်သူလွင်",
+            "title": "ကမယ်ဆိုတီးပါမယ်",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/kamalsoteeparmal_sithulwin.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ရင်ဂို",
+            "title": "မန်းတောင်ရိပ်ခို",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/mantaungyateko_yingo.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဂ​ရေဟန်",
+            "title": "ချမ်းပါတယ်",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/chanpartal_gayayhan",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ရင်ဂို",
+            "title": "နှစ်သစ်မင်္ဂလာ",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/nintthitmingalar_yingo.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဂ​ရေဟန်",
+            "title": "နှစ်သစ်ချစ်ဦး",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/nitthitchitoo_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ရင်ဂို ဘိုဘို ဂရေဟန်",
+            "title": "နှုတ်ခွန်းဆက်",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/notekhonsat_yingo_bobo_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဂ​ရေဟန်",
+            "title": "နွေအလှ",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/nwayahla_gayahan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဂ​ရေဟန်",
+            "title": "ပိတောက်လက်ဆောင်",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/padauklattsaung_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဂ​ရေဟန်",
+            "title": "ပိတောက်တစ်မျက်နှာ",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/padauktamyathnar_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "စည်သူလွင်",
+            "title": "ဖိုးညိုမြ",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/phoenyomya_sithulwin.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဂ​ရေဟန်",
+            "title": "သင်္ကြန်လုလင်",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/thagyanluulin_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဇော်ပိုင်",
+            "title": "သင်္ကြန်မိုး",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/thagyanmoe_zawpaing.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "ဂ​ရေဟန်",
+            "title": "သင်္ကြန်မိုးရေ တခူးလေ",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/thangyanmoeyaytagulay_gayayhan.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "စည်သူလွင်",
+            "title": "တူးပို့တူးပို့",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/tupotupo_sithulwin.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
+            "singername": "စည်သူလွင်",
+            "title": "ရေတွေစိုကုန်ပြီ",
+            "albumtitle": "နှစ်သစ်မင်္ဂလာ",
+            "lyricImg": "https://appmmdev.github.io/MMLyric/LyricsPhoto/04032024/yaytwaysokonp_sithulwin.jpeg",
+            "credit": "NT Lyrics & Chord",
+            "postId": "1709512200000"
+        },{
             "singername": "ထူးအယ်လင်း",
             "title": "အချစ်လို့ခေါ်သလား",
             "albumtitle": "MasterSongCollection2015",
